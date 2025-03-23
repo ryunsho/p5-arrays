@@ -40,6 +40,6 @@ function draw() {
     });
 }
 
-function windowResize() {
+function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
 }
